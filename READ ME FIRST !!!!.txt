@@ -1,0 +1,9 @@
+Online Animated Teaching Aids
+
+**Login Details** 
+
+Username : admin
+Password : 12345admin
+
+DON'T FORGET TO CREATE A DATABASE NAMING "db1" AND IMPORT THE SQL FILE AND RUN.
+WITHOUT THE DATABASE THE PROJECT WON'T RUN.
